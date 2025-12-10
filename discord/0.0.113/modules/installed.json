@@ -1,0 +1,24 @@
+{
+  "discord_desktop_core": {
+    "installedVersion": 0,
+    "updateVersion": 1,
+    "updateZipfile": "/home/arima/.config/discord/0.0.113/modules/pending/discord_desktop_core-1.zip"
+  },
+  "discord_erlpack": {
+    "installedVersion": 0,
+    "updateVersion": 1,
+    "updateZipfile": "/home/arima/.config/discord/0.0.113/modules/pending/discord_erlpack-1.zip"
+  },
+  "discord_spellcheck": {
+    "installedVersion": 0
+  },
+  "discord_utils": {
+    "installedVersion": 0
+  },
+  "discord_voice": {
+    "installedVersion": 0
+  },
+  "discord_zstd": {
+    "installedVersion": 0
+  }
+}

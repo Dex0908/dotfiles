@@ -1,0 +1,12 @@
+**/cache/
+**/Cache/
+**/*.log
+**/session*
+**/tmp/
+**/node_modules/
+**/Trash/
+**/.npm/
+**/.local/
+**/Pulse/
+**/pavucontrol.ini
+

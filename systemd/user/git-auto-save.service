@@ -1,0 +1,12 @@
+k[Unit]
+Description=Auto push ~/.config changes to GitHub via SSH
+After=network-online.target
+
+[Service]
+ExecStart=/home/arima/.local/bin/git-auto-save.sh
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=default.target
+

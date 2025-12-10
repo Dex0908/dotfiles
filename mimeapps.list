@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/tg=org.telegram.desktop.desktop
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-AyuGram Desktop-RVS8G3.desktop;userapp-Kotatogram Desktop-0HUCH3.desktop;org.telegram.desktop.desktop;
+x-scheme-handler/tonsite=userapp-AyuGram Desktop-BQH8G3.desktop;org.telegram.desktop.desktop;
