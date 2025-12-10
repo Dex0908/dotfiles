@@ -1,5 +1,0 @@
-2025/10/03-20:49:24.238 e579 Creating DB /home/arima/.config/discord/Local Storage/leveldb since it was missing.
-2025/10/03-20:49:24.259 e579 Reusing MANIFEST /home/arima/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/10/03-20:55:00.862 e579 Level-0 table #5: started
-2025/10/03-20:55:01.109 e579 Level-0 table #5: 2239941 bytes OK
-2025/10/03-20:55:01.114 e579 Delete type=0 #3
