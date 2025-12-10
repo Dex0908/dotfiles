@@ -1,0 +1,126 @@
+2025-10-03 17:25:28 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-03 17:25:28 Checking for update using Github
+2025-10-03 17:25:28 Success.
+2025-10-03 17:25:28 Latest version is 1.9.14
+2025-10-03 17:25:28 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14.asar.gz
+2025-10-03 17:25:29 Verifying hash & signature. Size= 9033685
+2025-10-03 17:25:29 Saving file
+2025-10-03 17:25:29 Update complete.
+2025-10-03 18:25:28 Checking for update using Github
+2025-10-03 18:25:28 Success.
+2025-10-03 18:25:28 Latest version is 1.9.14
+2025-10-03 18:25:28 An update is already downloaded.
+2025-10-03 18:58:59 Loading updated app package /home/arima/.config/obsidian/obsidian-1.9.14.asar
+2025-10-03 18:58:59 Checking for update using Github
+2025-10-03 19:25:28 Checking for update using Github
+2025-10-03 19:25:29 Success.
+2025-10-03 19:25:29 Latest version is 1.9.14
+2025-10-03 19:25:29 An update is already downloaded.
+2025-10-04 17:19:29 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-04 17:19:29 Checking for update using Github
+2025-10-04 17:19:30 Success.
+2025-10-04 17:19:30 Latest version is 1.9.14
+2025-10-04 17:19:30 App is up to date.
+2025-10-04 18:19:29 Checking for update using Github
+2025-10-04 18:19:29 Success.
+2025-10-04 18:19:29 Latest version is 1.9.14
+2025-10-04 18:19:29 App is up to date.
+2025-11-02 16:23:43 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-02 16:23:43 Checking for update using Github
+2025-11-02 16:23:44 Success.
+2025-11-02 16:23:44 Latest version is 1.9.14
+2025-11-02 16:23:44 App is up to date.
+2025-11-02 17:23:43 Checking for update using Github
+2025-11-02 17:23:43 Success.
+2025-11-02 17:23:43 Latest version is 1.9.14
+2025-11-02 17:23:43 App is up to date.
+2025-11-03 13:25:15 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-03 13:25:16 Checking for update using Github
+2025-11-03 13:25:16 Success.
+2025-11-03 13:25:16 Latest version is 1.9.14
+2025-11-03 13:25:16 App is up to date.
+2025-11-07 13:49:17 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-07 13:49:18 Checking for update using Github
+2025-11-07 13:49:18 Success.
+2025-11-07 13:49:18 Latest version is 1.9.14
+2025-11-07 13:49:18 App is up to date.
+2025-11-07 14:49:17 Checking for update using Github
+2025-11-07 14:49:17 Success.
+2025-11-07 14:49:17 Latest version is 1.9.14
+2025-11-07 14:49:17 App is up to date.
+2025-11-09 20:09:00 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-09 20:09:00 Checking for update using Github
+2025-11-09 20:09:00 Success.
+2025-11-09 20:09:00 Latest version is 1.9.14
+2025-11-09 20:09:00 App is up to date.
+2025-11-09 21:09:00 Checking for update using Github
+2025-11-09 21:09:00 Success.
+2025-11-09 21:09:00 Latest version is 1.9.14
+2025-11-09 21:09:00 App is up to date.
+2025-11-15 00:08:31 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-15 00:08:31 Checking for update using Github
+2025-11-15 00:08:31 Success.
+2025-11-15 00:08:31 Latest version is 1.10.3
+2025-11-15 00:08:31 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian-1.10.3.asar.gz
+2025-11-15 00:08:32 Verifying hash & signature. Size= 9053948
+2025-11-15 00:08:32 Saving file
+2025-11-15 00:08:32 Update complete.
+2025-11-16 17:34:24 Loading updated app package /home/arima/.config/obsidian/obsidian-1.10.3.asar
+2025-11-16 17:34:25 Checking for update using Github
+2025-11-16 17:34:25 Success.
+2025-11-16 17:34:25 Latest version is 1.10.3
+2025-11-16 17:34:25 App is up to date.
+2025-11-16 18:34:24 Checking for update using Github
+2025-11-16 18:34:25 Success.
+2025-11-16 18:34:25 Latest version is 1.10.3
+2025-11-16 18:34:25 App is up to date.
+2025-11-16 19:34:24 Checking for update using Github
+2025-11-16 19:34:24 Success.
+2025-11-16 19:34:24 Latest version is 1.10.3
+2025-11-16 19:34:24 App is up to date.
+2025-11-16 20:34:24 Checking for update using Github
+2025-11-16 20:34:24 Success.
+2025-11-16 20:34:24 Latest version is 1.10.3
+2025-11-16 20:34:24 App is up to date.
+2025-11-27 10:55:14 Loading updated app package /home/arima/.config/obsidian/obsidian-1.10.3.asar
+2025-11-27 10:55:14 Checking for update using Github
+2025-11-27 10:55:14 Success.
+2025-11-27 10:55:14 Latest version is 1.10.6
+2025-11-27 10:55:14 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/obsidian-1.10.6.asar.gz
+2025-11-27 10:55:15 Verifying hash & signature. Size= 9054843
+2025-11-27 10:55:15 Saving file
+2025-11-27 10:55:15 Update complete.
+2025-11-27 11:55:14 Checking for update using Github
+2025-11-27 11:55:14 Success.
+2025-11-27 11:55:14 Latest version is 1.10.6
+2025-11-27 11:55:14 An update is already downloaded.
+2025-11-27 12:55:14 Checking for update using Github
+2025-11-27 12:55:14 Success.
+2025-11-27 12:55:14 Latest version is 1.10.6
+2025-11-27 12:55:14 An update is already downloaded.
+2025-12-05 07:19:19 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-12-05 07:19:20 Checking for update using Github
+2025-12-05 07:19:20 Success.
+2025-12-05 07:19:20 Latest version is 1.10.6
+2025-12-05 07:19:20 App is up to date.
+2025-12-06 16:32:45 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-12-06 16:32:46 Checking for update using Github
+2025-12-06 16:32:46 Success.
+2025-12-06 16:32:46 Latest version is 1.10.6
+2025-12-06 16:32:46 App is up to date.
+2025-12-06 17:32:45 Checking for update using Github
+2025-12-06 17:32:45 Success.
+2025-12-06 17:32:45 Latest version is 1.10.6
+2025-12-06 17:32:45 App is up to date.
+2025-12-06 18:32:45 Checking for update using Github
+2025-12-06 18:32:45 Success.
+2025-12-06 18:32:45 Latest version is 1.10.6
+2025-12-06 18:32:45 App is up to date.
+2025-12-06 19:32:45 Checking for update using Github
+2025-12-06 19:32:45 Success.
+2025-12-06 19:32:45 Latest version is 1.10.6
+2025-12-06 19:32:45 App is up to date.
+2025-12-06 20:32:45 Checking for update using Github
+2025-12-06 20:32:45 Success.
+2025-12-06 20:32:45 Latest version is 1.10.6
+2025-12-06 20:32:45 App is up to date.
