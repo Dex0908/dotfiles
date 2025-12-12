@@ -1,0 +1,46 @@
+00:00:00.001118 main     VirtualBox XPCOM Server 7.2.4 r170995 linux.amd64 (Oct 22 2025 16:59:14) release log
+00:00:00.001121 main     Log opened 2025-12-12T22:00:09.789423000Z
+00:00:00.001121 main     Build Type: release
+00:00:00.001123 main     OS Product: Linux
+00:00:00.001124 main     OS Release: 6.17.9-arch1-1
+00:00:00.001126 main     OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 24 Nov 2025 15:21:09 +0000
+00:00:00.001145 main     DMI Product Name: H310MHP
+00:00:00.001153 main     DMI Product Version: 
+00:00:00.001157 main     Firmware type: UEFI
+00:00:00.001726 main     Secure Boot: Disabled
+00:00:00.001774 main     Host RAM: 7856MB (7.6GB) total, 4365MB (4.2GB) available
+00:00:00.001777 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001778 main     Process ID: 18171
+00:00:00.001778 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.009362 main     IPC socket path: /tmp/.vbox-arima-ipc/ipcd
+00:00:00.015756 DCon01   VirtualBox: object creation starts
+00:00:00.017404 DCon01   Home directory: '/home/arima/.config/VirtualBox'
+00:00:00.023284 DCon01   HostDnsMonitor: initializing
+00:00:00.024022 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.024038 DCon01   NAT: resolv.conf: nameserver 2a02:8070:2781:6060:10:18ff:fe14:c43c
+00:00:00.024041 DCon01   NAT: resolv.conf: nameserver 2a02:908:2:b::1
+00:00:00.024044 DCon01   NAT: resolv.conf: too many nameserver lines, ignoring 2a02:908:2:a::1
+00:00:00.024449 DCon01   HostDnsMonitor: updating information
+00:00:00.024475 DCon01   HostDnsMonitor: old information
+00:00:00.024476 DCon01     no server entries
+00:00:00.024479 DCon01     no domain set
+00:00:00.024480 DCon01     no search string entries
+00:00:00.024482 DCon01   HostDnsMonitor: new information
+00:00:00.024483 DCon01     server 1: 192.168.0.1
+00:00:00.024485 DCon01     server 2: 2a02:8070:2781:6060:10:18ff:fe14:c43c
+00:00:00.024487 DCon01     server 3: 2a02:908:2:b::1
+00:00:00.024488 DCon01     no domain set
+00:00:00.024490 DCon01     no search string entries
+00:00:00.032267 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.032676 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.042423 DCon01   VirtualBox: object created
+00:00:01.000068 DCon01   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Невозможно запустить Службу USB прокси хоста: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.334874 DCon01   Saving settings file "/home/arima/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.339973 DCon01   Finished saving settings file "/home/arima/.config/VirtualBox/VirtualBox.xml"
+00:00:09.273452 DCon02   Saving settings file "/home/arima/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:09.313645 DCon02   Finished saving settings file "/home/arima/.config/VirtualBox/VirtualBox.xml"
+00:00:15.381052 main     VirtualBox: object deletion starts
+00:00:15.384506 main     HostDnsMonitor: shutting down ...
+00:00:15.387997 main     HostDnsMonitor: shut down
+00:00:15.399560 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:15.400465 main     VirtualBox: object deleted
